@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Jeevan Sendur G</h1>
 <h3 align="center">A passionate DL Enthusiast from Amrita Vishwa Vidyapeetham</h3>
-
+<div align="center">
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" align="center">
+</div>
 - 🔭 I’m currently working on [a Smart Attendance System with Facial Recognition](https://github.com/JeevanSendur-AI/Smart-Attendance)
 
 - 🌱 I’m currently learning **Reinforcement Learning, LLMs, MongoDB**
