@@ -15,13 +15,13 @@
 
 - 📄 Know about my experiences, they're on my portfolio here [https://jeevansendur-ai.github.io/](https://jeevansendur-ai.github.io/)
 
-- ⚡ Fun fact **I am Batman**
+- ⚡ Fun fact ==> **I am Batman**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://in.linkedin.com/in/jeevan-sendur-g-b60a72259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/jeevan-sendur-g-b60a72259" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jeevan-sendur-g-b60a72259" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/jeevan-sendur-g-b60a72259" height="30" width="40" /></a>
 <a href="https://instagram.com/alphazoric" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alphazoric" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/jeevansendurg/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/jeevansendurg/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/JeevanSendurG/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="JeevanSendurG/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
